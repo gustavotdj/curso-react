@@ -1,0 +1,21 @@
+
+
+.p-5 {
+  padding: 25px;
+}
+
+.py-5 {
+  padding: 25px 0;
+}
+
+.g-5 {
+  gap: 25px;
+}
+
+.container {
+  max-width: 1200px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
